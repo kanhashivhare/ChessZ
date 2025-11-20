@@ -1,0 +1,11 @@
+{
+  "1419194921319141398": {
+    "board_fen": "rnb2r2/pp1p1kp1/1b5p/8/PP6/3B4/2PPQPPP/RNB2RK1 w - - 0 14",
+    "players": [
+      1019245440388042792,
+      null
+    ],
+    "type": "ai",
+    "difficulty": 2
+  }
+}
